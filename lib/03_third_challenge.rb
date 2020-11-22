@@ -10,6 +10,14 @@ epic_tragedy = {
     ]
 },
 :capulet => {
-  :patriarch => "Lord Capulet",
-  :matriarch => "Lady "
+  :patriarch => "Lord Capulet", age: "50"},
+  :matriarch => "Lady Capulet", age "51"},
+  :heroine: "Juliet", age "15", status: "alive"},
+  :heroine_friends => [
+    {name: "Steven", age: "30", attitude: "confused"},
+    {name: "Nurse", age: "44", attitude: "worried"}
+    ]
+  }
 }
+
+end
